@@ -1,4 +1,4 @@
-# Patch for Telegram Theme for Icalingua++
+# Icalingram
 
 一个基于 [Telegram Theme for Icalingua++ v1.0.2](https://github.com/wibus-wee-ac/icalingua-theme-telegram/releases/tag/v1.0.2) 的补丁，使其与 Telegram 进一步一致。
 
@@ -11,7 +11,7 @@
 
 在 `sass` 环境下执行 `build.bat`，然后重启 Icalingua++。
 
-## TODO
+## ~~TODO~~（我自己登不上了，开发无限期搁置）
 
 - [ ] 支持群成员、转发到面板。
 - [ ] 支持快捷表情面板和 @ 面板。（不好调试）
